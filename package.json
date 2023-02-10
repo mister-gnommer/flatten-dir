@@ -1,0 +1,14 @@
+{
+  "name": "flatten-dir",
+  "version": "1.0.0",
+  "description": "recuresively move all files from subfolders to main folder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mister-gnommer",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "11.1.0"
+  }
+}
